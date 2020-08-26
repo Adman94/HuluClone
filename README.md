@@ -1,5 +1,12 @@
+# Hulu Web App Clone using React.
 ![](public/huluclone.png)
+
 </hr>
+
+## Deployed with Firebase: (https://clone-82257.web.app/)
+
+</hr>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
